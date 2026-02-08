@@ -21,7 +21,7 @@ to understand real-world full-stack development.
 
 ## 📂 Project Structure
 
-ShopEase/
+FOREVER/
 ├── frontend/
 ├── backend/
 └── README.md
